@@ -1,3 +1,4 @@
+
 {
     "recommendations": [
         "esbenp.prettier-vscode",
@@ -10,5 +11,6 @@
         "pkief.material-icon-theme",
         "christian-kohler.path-intellisense",
         "yzhang.markdown-all-in-one"
+        
     ]
 }
